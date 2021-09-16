@@ -1,4 +1,4 @@
-# Homework1_HTML_refactor
+
 # Homework-1---HTML-Refactor
 The objective of this project was to make the website more accessable for all types of users without affecting the website functionality and appearance.
 
