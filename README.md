@@ -9,4 +9,4 @@ The last thing I did was clean up the repetitive code within the css file. I did
 ## Updated version of the webpage
 The more accessable version of the website can be found on my github [here].(https://kalvinn361.github.io/Homework1_HTML_refactor/)
 
-![Screenshot](./assets\images\Screenshot Page.png)
+![Screenshot](./assets\images\People.png)
