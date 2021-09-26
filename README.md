@@ -7,6 +7,5 @@ Next, I added alternative text names for each of the images sourced within the p
 The last thing I did was clean up the repetitive code within the css file. I did this by unifying the repetttive code into class styles. 
 
 ## Updated version of the webpage
-The more accessable version of the website can be found on my github [here](https://kalvinn361.github.io/Homework1_HTML_refactor/)
-
+The more accessable version of the website can be found on my github [here](https://kalvinn361.github.io/Homework-3-PasswordGenerator/)
 ![Screenshot](./assets/images/People.png)
